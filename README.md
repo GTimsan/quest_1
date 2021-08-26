@@ -1,9 +1,9 @@
-###Установка
+### Установка
 На машине с установленным docker и docker-compose, находясь в папке с docker-compose.yml команда:
 
 `docker-compose up`
 
-###curl команды
+### curl команды
 
 * Создать товар:
 
